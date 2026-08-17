@@ -82,4 +82,3 @@ python visualize_gameplay.py --fens_path path/to/fenfile.fen
 
 - Optional trained policy for Task 3.
 
-#### Note: Details about my agents are covered in `report.pdf`
